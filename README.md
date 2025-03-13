@@ -1,0 +1,2 @@
+# Predicting-Diabetes-Risk-Using-Health-Parameters-A-Machine-Learning-Approach
+ Project Overview This project aims to develop a machine learning model that predicts diabetes risk based on key health parameters. By analyzing factors like age, BMI, glucose levels, blood pressure, and family history, this model provides a data-driven approach to early diabetes detection, aiding in preventive healthcare decisions.
